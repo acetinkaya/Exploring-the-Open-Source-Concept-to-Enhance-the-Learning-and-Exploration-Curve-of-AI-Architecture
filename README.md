@@ -26,7 +26,7 @@ Kongre İsmi: IMSS25 - 13th International Symposium on Intelligent Manufacturing
 
 Kongre Tarihleri ve Yeri: 25-27 September 2025, Duzce, Turkey
 
-Kongre Erişim Sayfası: [IMSS'25](
+Kongre Erişim Sayfası: [IMSS'25](https://www.imss-symposium.info/)
 
 
 
