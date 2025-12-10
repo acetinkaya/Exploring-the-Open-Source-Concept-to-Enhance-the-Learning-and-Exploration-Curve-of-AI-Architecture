@@ -22,6 +22,6 @@ For Correspondence: alcetinkaya@gelisim.edu.tr
 
 ## Kongre Bilgileri: 
 
-Kongre İsmi: 
+Kongre İsmi: IMSS25 -
 
 
