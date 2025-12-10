@@ -22,6 +22,6 @@ For Correspondence: alcetinkaya@gelisim.edu.tr
 
 ## Kongre Bilgileri: 
 
-Kongre İsmi: IMSS25 -
+Kongre İsmi: IMSS25 - 13th International Symposium on 
 
 
