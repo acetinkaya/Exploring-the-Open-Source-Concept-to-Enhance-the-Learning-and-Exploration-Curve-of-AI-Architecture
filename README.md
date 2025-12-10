@@ -24,6 +24,8 @@ For Correspondence: alcetinkaya@gelisim.edu.tr
 
 Kongre İsmi: IMSS25 - 13th International Symposium on Intelligent Manufacturing and Service Systems
 
-Kongre Tarihleri: 
+Kongre Tarihleri ve Yeri: 25-27 September 2025, Duzce, Turkey
+
+
 
 
