@@ -20,6 +20,10 @@ For Correspondence: alcetinkaya@gelisim.edu.tr
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/Exploring-the-Open-Source-Concept-to-Enhance-the-Learning-and-Exploration-Curve-of-AI-Architecture/blob/main/yay%C4%B1n.png)
+
+---
+
 ## Kongre Bilgileri: 
 
 Kongre İsmi: IMSS25 - 13th International Symposium on Intelligent Manufacturing and Service Systems
