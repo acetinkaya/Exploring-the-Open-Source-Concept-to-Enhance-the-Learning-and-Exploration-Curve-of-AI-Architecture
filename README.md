@@ -20,6 +20,8 @@ For Correspondence: alcetinkaya@gelisim.edu.tr
 
 ---
 
-## Kongre 
+## Kongre Bilgileri: 
+
+Kongre İsmi: 
 
 
