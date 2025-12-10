@@ -4,8 +4,11 @@ Exploring the Open-Source Concept to Enhance the Learning and Exploration Curve 
 
 # Authors
 
-Ali Çetinkaya
+Ali Çetinkaya   
 Istanbul Gelisim University, Istanbul Gelisim Vocational School, Autonomous Systems Technician Program, Istanbul, Turkey
+
+Serkan Gönen   
+Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Software Engineering, Istanbul, Turkey
 
 
 
