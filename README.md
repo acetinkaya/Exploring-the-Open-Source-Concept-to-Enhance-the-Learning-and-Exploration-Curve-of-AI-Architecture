@@ -10,5 +10,8 @@ Istanbul Gelisim University, Istanbul Gelisim Vocational School, Autonomous Syst
 Serkan Gönen   
 Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Software Engineering, Istanbul, Turkey
 
+Mehmet Ali Barışkan
+Istanbul Gelisim University, Faculty of Engineering and Architecture, Department of Computer Engineering, Istanbul, Turkey
 
+For Correspondence: alcetinkaya@gelisim.edu.tr
 
