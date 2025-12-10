@@ -30,6 +30,5 @@ Kongre Erişim Sayfası: [IMSS'25](https://www.imss-symposium.info/)
 
 Kongre Kitabı: [IMSS25 Proceedings Book - ISBN: 978-625-00-3472-9](https://www.imss-symposium.info/2025-proceedings)
 
-
-
+![alternatif metin](https://github.com/acetinkaya/Machine-Learning-Based-Detection-of-Distributed-Denial-of-Service-DDoS-Attacks/blob/main/1.png)
 
