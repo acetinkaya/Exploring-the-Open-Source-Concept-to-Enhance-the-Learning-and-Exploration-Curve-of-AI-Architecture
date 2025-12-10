@@ -22,6 +22,8 @@ For Correspondence: alcetinkaya@gelisim.edu.tr
 
 ## Kongre Bilgileri: 
 
-Kongre İsmi: IMSS25 - 13th International Symposium on 
+Kongre İsmi: IMSS25 - 13th International Symposium on Intelligent Manufacturing and Service Systems
+
+Kongre Tarihleri: 
 
 
