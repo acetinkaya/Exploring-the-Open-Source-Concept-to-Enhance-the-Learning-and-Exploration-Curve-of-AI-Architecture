@@ -28,7 +28,7 @@ Kongre Tarihleri ve Yeri: 25-27 September 2025, Duzce, Turkey
 
 Kongre Erişim Sayfası: [IMSS'25](https://www.imss-symposium.info/)
 
-Kongre Abstract Book: [IMSS25 Proceedings Book - ISBN: 978-625-00-3472-9](https://www.imss-symposium.info/2025-proceedings)
+Kongre Kitabı: [IMSS25 Proceedings Book - ISBN: 978-625-00-3472-9](https://www.imss-symposium.info/2025-proceedings)
 
 
 
